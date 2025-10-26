@@ -1,0 +1,8 @@
+/home/riri/aruco_generator/build/CMakeFiles/edit_cache.dir
+/home/riri/aruco_generator/build/CMakeFiles/draw_cube.dir
+/home/riri/aruco_generator/build/CMakeFiles/pose_estimation.dir
+/home/riri/aruco_generator/build/CMakeFiles/calibrate.dir
+/home/riri/aruco_generator/build/CMakeFiles/rebuild_cache.dir
+/home/riri/aruco_generator/build/CMakeFiles/detect_aruco.dir
+/home/riri/aruco_generator/build/CMakeFiles/generate_board.dir
+/home/riri/aruco_generator/build/CMakeFiles/generate_marker.dir
