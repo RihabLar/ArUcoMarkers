@@ -64,4 +64,3 @@ All programs use OpenCV’s **ArUco module** for detection and pose estimation.
 * The **draw cube** program overlays a 3D cube that moves with the marker, creating an AR effect.
 
 
-Would you like me to make it look a bit more **visual (with emojis and better layout)** like a GitHub portfolio-style README, or keep it in this simple academic style?
